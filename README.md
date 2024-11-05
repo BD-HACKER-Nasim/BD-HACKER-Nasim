@@ -31,8 +31,8 @@ ___🦋(⚜️✨NASIM✨꧂✨⚜️)🦋___
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/mdnasimmia41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="⚜️✨NASIM✨꧂✨⚜️" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nasim_00_001?igsh=bmtuMXZ2cDY2MmRj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasim_00_001" height="30" width="40" /></a>
+<a href="https://youtube.com/@topmediaofficial0?si=ReLXPkN2JZefhZ6K"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@topmediaofficial0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -120,7 +120,7 @@ ___🦋(⚜️✨NASIM✨꧂✨⚜️)🦋___
 
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+⚜️✨NASIM✨꧂✨⚜️+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸??'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+⚜️✨NASIM✨꧂✨⚜️+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+??+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+⚜️✨NASIM✨꧂✨⚜️+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸??'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+⚜️✨NASIM✨꧂✨⚜️+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
