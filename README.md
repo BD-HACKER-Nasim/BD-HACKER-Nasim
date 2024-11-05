@@ -30,7 +30,7 @@ ___🦋(⚜️✨NASIM✨꧂✨⚜️)🦋___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/mdnasimmia41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="⚜️✨NASIM✨꧂✨⚜️" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mdnasimmia41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-F-alt.svg" alt="⚜️✨NASIM✨꧂✨⚜️" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nasim_00_001?igsh=bmtuMXZ2cDY2MmRj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasim_00_001" height="30" width="40" /></a>
 <a href="https://youtube.com/@topmediaofficial0?si=ReLXPkN2JZefhZ6K"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@topmediaofficial0" height="30" width="40" /></a>
 </p>
